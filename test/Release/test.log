@@ -1,0 +1,31 @@
+﻿生成启动时间为 2018/2/27 9:57:15。
+     1>项目“E:\恢复程序\VirtualMachineCheck\test\test.vcxproj”在节点 3 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\test.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\test.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\test.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\test.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Common\Exception.cpp ..\Common\Funcs.cpp test.cpp
+         Exception.cpp
+         Funcs.cpp
+         test.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\恢复程序\VirtualMachineCheck\Release\test.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\恢复程序\VirtualMachineCheck\Release\test.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\恢复程序\VirtualMachineCheck\Release\test.lib" /MACHINE:X86 Release\Exception.obj
+         Release\Funcs.obj
+         Release\stdafx.obj
+         Release\test.obj
+         正在生成代码
+         已完成代码的生成
+         test.vcxproj -> E:\恢复程序\VirtualMachineCheck\Release\test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\恢复程序\VirtualMachineCheck\Release\test.exe;#1" /manifest Release\test.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\test.unsuccessfulbuild”。
+         正在对“Release\test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\恢复程序\VirtualMachineCheck\test\test.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.01

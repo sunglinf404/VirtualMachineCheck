@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{F2FD9062-30B6-40D1-8751-EE7086874D55}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>VirtualMachineCheck</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;VIRTUALMACHINECHECK_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;VIRTUALMACHINECHECK_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Common\Common.h" />
+    <ClInclude Include="..\Common\Define.h" />
+    <ClInclude Include="..\Common\Exception.h" />
+    <ClInclude Include="..\Common\Funcs.h" />
+    <ClInclude Include="..\Common\Priviledge.h" />
+    <ClInclude Include="..\Common\SystemRegistry.h" />
+    <ClInclude Include="..\Include\DataConst.h" />
+    <ClInclude Include="..\Include\DataHeader.h" />
+    <ClInclude Include="..\Include\WMIConst.h" />
+    <ClInclude Include="..\Mime\Base64.h" />
+    <ClInclude Include="..\Mime\CharsetConver.h" />
+    <ClInclude Include="..\Mime\UrlConver.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Binary.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Buffer.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Exception.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Query.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Statement.h" />
+    <ClInclude Include="..\Sqlite3\DbSqlite3Table.h" />
+    <ClInclude Include="..\Sqlite3\dlsqlite3.h" />
+    <ClInclude Include="..\Sqlite3\sqlite3.h" />
+    <ClInclude Include="GetHostDiskInfo.h" />
+    <ClInclude Include="GetVirtualMachineInfo.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="VirtualFileStruct.h" />
+    <ClInclude Include="VirtualMachineBrowserRecord.h" />
+    <ClInclude Include="VirtualMachineCheck.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Common\Common.cpp" />
+    <ClCompile Include="..\Common\Exception.cpp" />
+    <ClCompile Include="..\Common\Funcs.cpp" />
+    <ClCompile Include="..\Common\Priviledge.cpp" />
+    <ClCompile Include="..\Common\SystemRegistry.cpp" />
+    <ClCompile Include="..\Mime\Base64.cpp" />
+    <ClCompile Include="..\Mime\CharsetConver.cpp" />
+    <ClCompile Include="..\Mime\UrlConver.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Binary.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Buffer.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Exception.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Query.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Statement.cpp" />
+    <ClCompile Include="..\Sqlite3\DbSqlite3Table.cpp" />
+    <ClCompile Include="dllmain.cpp">
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="GetHostDiskInfo.cpp" />
+    <ClCompile Include="GetVirtualMachineInfo.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="VirtualMachineBrowserRecord.cpp" />
+    <ClCompile Include="VirtualMachineCheck.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

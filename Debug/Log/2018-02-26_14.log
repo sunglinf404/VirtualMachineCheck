@@ -1,0 +1,4 @@
+[2018-02-26 14:38:59] : [错误] JudgeVHDFile VmDevice = CreateFile获取VMware配置文件句柄失败!,										   错误返回码: dwError = 123
+[2018-02-26 14:38:59] : [错误] VhdFileCheck:GetFileNameAndPath::VHD判断失败!
+[2018-02-26 14:39:43] : [错误] JudgeVHDFile::寻址错误，此文件不是VHD磁盘，或者此VHD是固定磁盘，不是增量磁盘!
+[2018-02-26 14:39:43] : [错误] VhdFileCheck:GetFileNameAndPath::VHD判断失败!

@@ -1,0 +1,67 @@
+﻿生成启动时间为 2018/2/27 9:57:13。
+     1>项目“E:\恢复程序\VirtualMachineCheck\VirtualMachineCheck\VirtualMachineCheck.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\VirtualMachineCheck.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\VirtualMachineCheck.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VIRTUALMACHINECHECK_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\VirtualMachineCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VIRTUALMACHINECHECK_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\VirtualMachineCheck.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Common\Common.cpp ..\Common\Exception.cpp ..\Common\Funcs.cpp ..\Common\Priviledge.cpp ..\Common\SystemRegistry.cpp ..\Mime\Base64.cpp ..\Mime\CharsetConver.cpp ..\Mime\UrlConver.cpp ..\Sqlite3\DbSqlite3.cpp ..\Sqlite3\DbSqlite3Binary.cpp ..\Sqlite3\DbSqlite3Buffer.cpp ..\Sqlite3\DbSqlite3Exception.cpp ..\Sqlite3\DbSqlite3Query.cpp ..\Sqlite3\DbSqlite3Statement.cpp ..\Sqlite3\DbSqlite3Table.cpp GetHostDiskInfo.cpp GetVirtualMachineInfo.cpp VirtualMachineBrowserRecord.cpp VirtualMachineCheck.cpp
+         Common.cpp
+         Exception.cpp
+         Funcs.cpp
+         Priviledge.cpp
+         SystemRegistry.cpp
+         Base64.cpp
+         CharsetConver.cpp
+         UrlConver.cpp
+         DbSqlite3.cpp
+         DbSqlite3Binary.cpp
+         DbSqlite3Buffer.cpp
+         DbSqlite3Exception.cpp
+         DbSqlite3Query.cpp
+         DbSqlite3Statement.cpp
+         DbSqlite3Table.cpp
+         GetHostDiskInfo.cpp
+         GetVirtualMachineInfo.cpp
+         VirtualMachineBrowserRecord.cpp
+         VirtualMachineCheck.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VIRTUALMACHINECHECK_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\VirtualMachineCheck.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.lib" /MACHINE:X86 /DLL Release\Common.obj
+         Release\Exception.obj
+         Release\Funcs.obj
+         Release\Priviledge.obj
+         Release\SystemRegistry.obj
+         Release\Base64.obj
+         Release\CharsetConver.obj
+         Release\UrlConver.obj
+         Release\DbSqlite3.obj
+         Release\DbSqlite3Binary.obj
+         Release\DbSqlite3Buffer.obj
+         Release\DbSqlite3Exception.obj
+         Release\DbSqlite3Query.obj
+         Release\DbSqlite3Statement.obj
+         Release\DbSqlite3Table.obj
+         Release\dllmain.obj
+         Release\GetHostDiskInfo.obj
+         Release\GetVirtualMachineInfo.obj
+         Release\stdafx.obj
+         Release\VirtualMachineBrowserRecord.obj
+         Release\VirtualMachineCheck.obj
+            正在创建库 E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.lib 和对象 E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.exp
+         正在生成代码
+         已完成代码的生成
+         VirtualMachineCheck.vcxproj -> E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\恢复程序\VirtualMachineCheck\Release\VirtualMachineCheck.dll;#2" /manifest Release\VirtualMachineCheck.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\VirtualMachineCheck.unsuccessfulbuild”。
+         正在对“Release\VirtualMachineCheck.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\恢复程序\VirtualMachineCheck\VirtualMachineCheck\VirtualMachineCheck.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.50

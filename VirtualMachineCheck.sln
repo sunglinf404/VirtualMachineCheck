@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{3E242E98-7AE5-43D9-9276-EB8102C8BC07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualMachineCheck", "VirtualMachineCheck\VirtualMachineCheck.vcxproj", "{F2FD9062-30B6-40D1-8751-EE7086874D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E242E98-7AE5-43D9-9276-EB8102C8BC07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E242E98-7AE5-43D9-9276-EB8102C8BC07}.Debug|Win32.Build.0 = Debug|Win32
+		{3E242E98-7AE5-43D9-9276-EB8102C8BC07}.Release|Win32.ActiveCfg = Release|Win32
+		{3E242E98-7AE5-43D9-9276-EB8102C8BC07}.Release|Win32.Build.0 = Release|Win32
+		{F2FD9062-30B6-40D1-8751-EE7086874D55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2FD9062-30B6-40D1-8751-EE7086874D55}.Debug|Win32.Build.0 = Debug|Win32
+		{F2FD9062-30B6-40D1-8751-EE7086874D55}.Release|Win32.ActiveCfg = Release|Win32
+		{F2FD9062-30B6-40D1-8751-EE7086874D55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

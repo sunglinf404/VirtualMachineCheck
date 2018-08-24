@@ -1,0 +1,370 @@
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile:HDФ:пИдБ╩З!
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:12] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:12] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:12] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:12] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:12] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:12] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:14] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:17602
+[2018-01-23 17:00:14] : [пео╒] VirtualWriteLargeFile:VMwareAddressConversion: й╖╟э!
+[2018-01-23 17:00:14] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:17608
+[2018-01-23 17:00:14] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:17615
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile:╟Ф:пИдБ╩З!
+[2018-01-23 17:00:16] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:16] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:16] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:16] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:16] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:16] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:16] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:16] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile:(╨И:пИдБ╩З!
+[2018-01-23 17:00:25] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:25] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:25] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:25] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:25] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:25] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:25] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:25] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:25] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:25] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:25] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:27] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:17602
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile:pЙИ:пИдБ╩З!
+[2018-01-23 17:00:29] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:29] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:29] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:29] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:29] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:29] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:29] : [╢МнС] GetChildDiskAllMFTStartAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:29] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:29] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:29] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:29] : [╢МнС] GetChildDiskAllMFTStartAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:29] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:29] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile:─CФ:пИдБ╩З!
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:47] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:47] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:47] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:00:47] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:47] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:47] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile:@ВИ:пИдБ╩З!
+[2018-01-23 17:00:58] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:00:58] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:00:58] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:00:58] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:58] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:00:58] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:58] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡11200╢ь!
+[2018-01-23 17:00:58] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:01:12] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:01:12] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг89602
+[2018-01-23 17:03:57] : [пео╒] ╥жгЬйЩа©7
+[2018-01-23 17:03:57] : [пео╒] ╥жгЬюЮпмйгGPT
+[2018-01-23 17:03:57] : [пео╒] GetHostNtfsStartAddr GetFileSize ╢еелвэ╢Сп║йг4294967295
+[2018-01-23 17:03:57] : [пео╒] ╤ах║╣╫GPT╢еел╣д╠ё╩╓MBRгЬсР
+[2018-01-23 17:03:57] : [пео╒] уБйгGPTм╥╡©
+[2018-01-23 17:03:57] : [пео╒] GPTап╠М╫АйЬ
+[2018-01-23 17:03:57] : [пео╒] р╩╧╡╤ах║акGPT╥жгЬ3╦Ж
+[2018-01-23 17:03:58] : [пео╒] VirtualFileCheckFuc:©╙й╪╣з0╥жгЬ
+[2018-01-23 17:03:58] : [пео╒] VirtualFileCheckFuc:жВ╩З╢к╥жгЬр╩╧╡2╦ЖMFTгЬсР!
+[2018-01-23 17:03:58] : [пео╒] VirtualFileCheckFuc:жВ╩ЗMFTр╩╧╡35456╦Ж╢ь!
+[2018-01-23 17:04:12] : [пео╒] VirtualFileCheckFuc урмЙаккЫсп╣дReferNum141825
+[2018-01-23 17:04:12] : [пео╒] VirtualFileCheckFuc:жВ╩ЗMFTр╩╧╡120832╦Ж╢ь!
+[2018-01-23 17:04:56] : [пео╒] VirtualFileCheckFuc урмЙаккЫсп╣дReferNum483329
+[2018-01-23 17:04:56] : [пео╒] ╢к╥жгЬр╩╧╡1╦ЖпИдБ╩З!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile:╟Мщ:пИдБ╩З!
+[2018-01-23 17:04:56] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:04:56] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:04:56] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡2╦ЖNTFSел
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:04:56] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:04:56] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:04:56] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:04:56] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡28224╢ь!
+[2018-01-23 17:04:56] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:05:30] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг225794
+[2018-01-23 17:05:30] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг225794
+[2018-01-23 17:05:30] : [пео╒] ╢к╥жгЬр╩╧╡5╦ЖпИдБ╩З!
+[2018-01-23 17:05:30] : [пео╒] VirtualFileCheckFuc:©╙й╪╣з1╥жгЬ
+[2018-01-23 17:05:30] : [пео╒] VirtualFileCheckFuc:жВ╩З╢к╥жгЬр╩╧╡1╦ЖMFTгЬсР!
+[2018-01-23 17:05:30] : [пео╒] VirtualFileCheckFuc:жВ╩ЗMFTр╩╧╡5056╦Ж╢ь!
+[2018-01-23 17:05:31] : [пео╒] VirtualFileCheckFuc урмЙаккЫсп╣дReferNum20225
+[2018-01-23 17:05:31] : [пео╒] ╢к╥жгЬр╩╧╡2╦ЖпИдБ╩З!
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile:╗┌╬:пИдБ╩З!
+[2018-01-23 17:05:32] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:05:32] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:05:32] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡4╦ЖNTFSел
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:05:32] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:05:32] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡13184╢ь!
+[2018-01-23 17:05:32] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:05:32] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:2698
+[2018-01-23 17:05:36] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:16741
+[2018-01-23 17:05:36] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:16815
+[2018-01-23 17:05:36] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:16855
+[2018-01-23 17:05:43] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:44345
+[2018-01-23 17:05:44] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46034
+[2018-01-23 17:05:44] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46059
+[2018-01-23 17:05:49] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46060
+[2018-01-23 17:05:49] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46061
+[2018-01-23 17:05:49] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46062
+[2018-01-23 17:05:49] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46066
+[2018-01-23 17:05:50] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46067
+[2018-01-23 17:05:50] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46068
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46069
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46070
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46071
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46072
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46073
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46074
+[2018-01-23 17:05:51] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46075
+[2018-01-23 17:05:54] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46076
+[2018-01-23 17:05:54] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46081
+[2018-01-23 17:05:54] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46084
+[2018-01-23 17:05:54] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46085
+[2018-01-23 17:05:54] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46086
+[2018-01-23 17:05:55] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46087
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46088
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46089
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46090
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46091
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46092
+[2018-01-23 17:05:58] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46093
+[2018-01-23 17:05:59] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46094
+[2018-01-23 17:05:59] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46095
+[2018-01-23 17:06:00] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46096
+[2018-01-23 17:06:00] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46097
+[2018-01-23 17:06:01] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46103
+[2018-01-23 17:06:02] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46104
+[2018-01-23 17:06:03] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46126
+[2018-01-23 17:06:03] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46129
+[2018-01-23 17:06:04] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46130
+[2018-01-23 17:06:05] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46131
+[2018-01-23 17:06:06] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46132
+[2018-01-23 17:06:06] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46133
+[2018-01-23 17:06:06] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46137
+[2018-01-23 17:06:07] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46138
+[2018-01-23 17:06:08] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46141
+[2018-01-23 17:06:08] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46142
+[2018-01-23 17:06:08] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46144
+[2018-01-23 17:06:09] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46274
+[2018-01-23 17:06:16] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46277
+[2018-01-23 17:06:16] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46287
+[2018-01-23 17:06:16] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46290
+[2018-01-23 17:06:17] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46291
+[2018-01-23 17:06:17] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46292
+[2018-01-23 17:06:17] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46293
+[2018-01-23 17:06:17] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46297
+[2018-01-23 17:06:22] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:46310
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг105474
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг105474
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з1╦ЖNTFSел
+[2018-01-23 17:06:25] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:25] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:06:25] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:25] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:89
+[2018-01-23 17:06:25] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:97
+[2018-01-23 17:06:25] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:199
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:200
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:201
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:203
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:204
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:205
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:206
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:207
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:208
+[2018-01-23 17:06:29] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:209
+[2018-01-23 17:06:30] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:210
+[2018-01-23 17:06:30] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:211
+[2018-01-23 17:06:30] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:212
+[2018-01-23 17:06:32] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:213
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з2╦ЖNTFSел
+[2018-01-23 17:06:32] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:32] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡256╢ь!
+[2018-01-23 17:06:32] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:32] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:845
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:846
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:847
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:848
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:849
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:850
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:851
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг2050
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг2050
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з3╦ЖNTFSел
+[2018-01-23 17:06:33] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:33] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡64╢ь!
+[2018-01-23 17:06:33] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:47
+[2018-01-23 17:06:33] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:48
+[2018-01-23 17:06:34] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:49
+[2018-01-23 17:06:34] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:50
+[2018-01-23 17:06:34] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:51
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг514
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile:П=╬:пИдБ╩З!
+[2018-01-23 17:06:35] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:35] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:35] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:06:35] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:35] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:35] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡1╦ЖNTFSел
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:06:35] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:35] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:35] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:35] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡1904╢ь!
+[2018-01-23 17:06:35] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:37] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:7579
+[2018-01-23 17:06:37] : [пео╒] VirtualWriteLargeFile:VMwareAddressConversion: й╖╟э!
+[2018-01-23 17:06:37] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:7581
+[2018-01-23 17:06:37] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:7582
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг15234
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг15234
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile:╗┌╬:пИдБ╩З!
+[2018-01-23 17:06:37] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:06:37] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:37] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:37] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡1╦ЖNTFSел
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:06:37] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:37] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡1904╢ь!
+[2018-01-23 17:06:37] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг15234
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг15234
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile:─X╬:пИдБ╩З!
+[2018-01-23 17:06:42] : [╢МнС] GetChildDiskNTFSAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:42] : [пео╒] уБ╦ЖпИдБ╩ЗйгMBR╥жгЬ
+[2018-01-23 17:06:42] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:42] : [пео╒] Find_virtu_Mbr ╤ах║virtualMBRмЙ╠о!
+[2018-01-23 17:06:42] : [пео╒] GetVirtualNTSFAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫NTFSфПй╪╣ьж╥!
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩Зр╩╧╡1╦ЖNTFSел
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile VMwareпИдБ╩З©╙й╪я╟ур╣з0╦ЖNTFSел
+[2018-01-23 17:06:42] : [╢МнС] GetChildDiskMFTAddr:Virtual_to_Host_OneAddr: ╩Ях║пИдБ╩ЗMBRйв╣ьж╥м╥╡©пео╒й╖╟э!
+[2018-01-23 17:06:42] : [пео╒] GetVirtualMFTAddr,Ёи╧╕╢с╩Ы╠╬елжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:42] : [пео╒] GetVirtualAllMFTStartAddr,Ёи╧╕╢с╡Н╥желжпур╣╫MFTфПй╪╣ьж╥!
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile пИдБ╩Зр╩╧╡1╦ЖMFT©ИгЬ
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile ╢кMFTр╩╧╡1904╢ь!
+[2018-01-23 17:06:42] : [пео╒] AnalysisVmdkFile ©╙й╪я╟ур╣з0╦ЖMFT©И
+[2018-01-23 17:06:44] : [пео╒] GetVirtualFileAddr ╢кнд╪Ч╪гб╪╡н©╪╨ейг:7579
+[2018-01-23 17:06:44] : [пео╒] AnalysisVmdkFile:ReferNum:╠ИюЗмЙ╢кMFTё╛нд╪Ч╪гб╪йЩйг15234
+[2018-01-23 17:06:44] : [пео╒] AnalysisVmdkFile:ReferNum:нд╪Ч╪гб╪йЩйг15234

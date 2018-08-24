@@ -1,0 +1,65 @@
+[2018-02-26 17:10:25] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:10:25] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:10:46] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:11:14] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:11:14] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:43
+[2018-02-26 17:14:43] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:14:43] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:14:43] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:14:43] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:14:43] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:43
+[2018-02-26 17:17:15] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:17:15] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:17:15] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:17:16] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:21:04] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:21:04] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:21:04] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:21:04] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:21:55] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:21:55] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:21:55] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:22:14] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:22:29] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:43
+[2018-02-26 17:23:02] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:23:02] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:23:02] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:23:02] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:23:03] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:43
+[2018-02-26 17:23:41] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:23:41] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:23:41] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:23:41] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:24:47] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:24:47] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:24:47] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:24:47] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:25:32] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:25:32] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:25:32] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:25:35] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:26:18] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:26:18] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:26:18] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:26:18] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:26:55] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:26:55] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:26:55] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:26:55] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:32:40] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:32:40] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:32:40] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:32:40] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:38:37] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:38:37] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:38:37] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:38:37] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:39:24] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:39:24] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:39:24] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:39:24] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:39:56] : [信息] 这个虚拟机是MBR分区
+[2018-02-26 17:39:56] : [信息] FindParentVHDVirtual_Mbr 读取virtualMBR完毕!
+[2018-02-26 17:39:56] : [信息] VirGetAllMftAddr:在基本盘里找到Mft所有地址!
+[2018-02-26 17:39:56] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:39
+[2018-02-26 17:39:56] : [信息] GetVHDVirtualFileAddr 此文件记录参考号是:43

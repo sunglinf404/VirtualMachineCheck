@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Common">
+      <UniqueIdentifier>{d36056dd-7514-43ad-aede-cfc4c19d9baa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Include">
+      <UniqueIdentifier>{7cb18d18-d629-48fb-9d90-f9799150ec75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Mime">
+      <UniqueIdentifier>{1670edaa-a9c0-4cfd-98e7-1d9b6fa8541a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Sqlite3">
+      <UniqueIdentifier>{25b9c3f7-c063-4019-b658-1dc6f8df5933}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualMachineCheck.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Common.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Define.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Exception.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Funcs.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\Priviledge.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\SystemRegistry.h">
+      <Filter>头文件\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\DataConst.h">
+      <Filter>头文件\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\DataHeader.h">
+      <Filter>头文件\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Include\WMIConst.h">
+      <Filter>头文件\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Mime\Base64.h">
+      <Filter>头文件\Mime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Mime\CharsetConver.h">
+      <Filter>头文件\Mime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Mime\UrlConver.h">
+      <Filter>头文件\Mime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Binary.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Buffer.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Exception.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Query.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Statement.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\DbSqlite3Table.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\dlsqlite3.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sqlite3\sqlite3.h">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClInclude>
+    <ClInclude Include="GetHostDiskInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetVirtualMachineInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualFileStruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualMachineBrowserRecord.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualMachineCheck.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Common.cpp">
+      <Filter>头文件\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Exception.cpp">
+      <Filter>头文件\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Funcs.cpp">
+      <Filter>头文件\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\Priviledge.cpp">
+      <Filter>头文件\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\SystemRegistry.cpp">
+      <Filter>头文件\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Mime\Base64.cpp">
+      <Filter>头文件\Mime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Mime\CharsetConver.cpp">
+      <Filter>头文件\Mime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Mime\UrlConver.cpp">
+      <Filter>头文件\Mime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Binary.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Buffer.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Exception.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Query.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Statement.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sqlite3\DbSqlite3Table.cpp">
+      <Filter>头文件\Sqlite3</Filter>
+    </ClCompile>
+    <ClCompile Include="GetHostDiskInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetVirtualMachineInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualMachineBrowserRecord.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

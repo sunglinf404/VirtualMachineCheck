@@ -1,2 +1,0 @@
-[2018-01-05 16:47:31] : [错误] m_ParentDevice = CreateFile获取\\.\PhysicalDrive0磁盘句柄失败!,										   错误返回码: dwError = 5
-[2018-01-05 16:47:31] : [错误] VirtualVmwareCheck::InitHostDisk初始化失败!
